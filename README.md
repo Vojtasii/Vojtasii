@@ -1,5 +1,5 @@
-Hi, I’m @Vojtasii and I'm a computer science student at Faculty of Electrical Engineering at Czech Technical University. Currently, I am an intern at @Gooddata,
-working with Kotlin and TypeScript. I am interested in languages, both programming and spoken.
+Hi, I’m @Vojtasii and I'm a computer science student at Faculty of Electrical Engineering at Czech Technical University. Currently, I am a SW developer at @Gooddata,
+working with Kotlin and TypeScript.
 
 
 <!---
